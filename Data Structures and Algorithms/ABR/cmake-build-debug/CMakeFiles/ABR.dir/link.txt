@@ -1,0 +1,3 @@
+"C:\Users\39331\AppData\Local\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ABR.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\ABR.dir/objects.a @CMakeFiles\ABR.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\ABR.dir/objects.a -Wl,--no-whole-archive  -o ABR.exe -Wl,--out-implib,libABR.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ABR.dir\linklibs.rsp

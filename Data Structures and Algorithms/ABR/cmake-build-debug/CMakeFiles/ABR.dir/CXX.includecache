@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/abr.cpp
+abr.h
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/abr.h
+
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/abr.h
+nodo.h
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/nodo.h
+
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/main.cpp
+iostream
+-
+abr.h
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/abr.h
+abr.cpp
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/abr.cpp
+
+C:/Users/39331/Documents/Algoritmi e strutture dati/ABR/nodo.h
+

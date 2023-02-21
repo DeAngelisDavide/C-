@@ -1,0 +1,3 @@
+C:/Users/39331/Documents/Algoritmi e strutture dati/aziendaQuotata/cmake-build-debug/CMakeFiles/aziendaQuotata.dir
+C:/Users/39331/Documents/Algoritmi e strutture dati/aziendaQuotata/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/39331/Documents/Algoritmi e strutture dati/aziendaQuotata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
