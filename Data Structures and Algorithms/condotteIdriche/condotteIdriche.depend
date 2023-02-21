@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1644938841 source:c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\nodo.cpp
+	"nodo.h"
+	"iostream"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\include\nodo.h
+
+1644938841 source:c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\hashgraph.cpp
+	"hashGraph.h"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\include\hashgraph.h
+	"../src/hashTable.cpp"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\hashtable.cpp
+	"hashTable.h"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\include\hashtable.h
+	<cmath>
+	"../src/vertice.cpp"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\vertice.cpp
+	"vertice.h"
+	"vertice.h"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\include\vertice.h
+	"../src/linkedList.cpp"
+	"iostream"
+	"limits"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\linkedlist.cpp
+	"linkedList.h"
+
+1644938871 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\include\linkedlist.h
+	"../src/nodo.cpp"
+
+1644938841 c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\nodo.cpp
+	"nodo.h"
+	"iostream"
+
+1644938841 source:c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\hashtable.cpp
+	"hashTable.h"
+
+1644938841 source:c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\linkedlist.cpp
+	"linkedList.h"
+
+1644938841 source:c:\users\davide\desktop\traccia 2- davide de angelis\condotteidriche\src\vertice.cpp
+	"vertice.h"
+	"vertice.h"
+
